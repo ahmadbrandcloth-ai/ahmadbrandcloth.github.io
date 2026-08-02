@@ -19,18 +19,14 @@ text-align:center;
 }
 
 .banner{
-width:100%;
-border-radius:20px;
-border:4px solid gold;
+width:250px;
+height:250px;
+border-radius:50%;
+object-fit:cover;
+display:block;
+margin:20px auto;
+border:6px solid gold;
 box-shadow:0 0 25px gold;
-margin-bottom:25px;
-}
-
-h1{
-font-size:42px;
-color:gold;
-margin-bottom:8px;
-text-shadow:0 0 12px gold;
 }
 
 .tagline{
